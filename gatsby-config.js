@@ -1,6 +1,6 @@
 const title = `Learning record using Gatsby.js`
 const author = `author`
-const siteDomain = `goofy-jang-cc6f10.netlify.app`
+const siteDomain = `create-pi2c0q2lj-1301688.vercel.app`
 const siteUrl = `https://${siteDomain}`
 const description = `Description`
 
