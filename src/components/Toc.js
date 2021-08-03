@@ -20,6 +20,7 @@ const TocWrapper = styled.div`
 const TocName = styled.div``
 const TocMain = styled.div`
   margin-top: 0.5em;
+  font-size: 0.7px;
 `
 const HeadingList = ({ headings }) => (
   <ul>
